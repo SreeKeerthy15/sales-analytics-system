@@ -37,6 +37,7 @@ T058|2024-12-07|P109|Wireless MouseGaming|9|1043.0|C005|East|None|None|None|Fals
 T029|2024-12-11|P110|Laptop Charger|8|1539.0|C004|East|None|None|None|False
 T030|2024-12-08|P105|Webcam|1|2986.0|C029|North|None|None|None|False
 T021|2024-12-25|P102|Mouse|1|524.0|C005|South|None|None|None|False
+T071|2024-12-29|P109|Wireless Mouse|7|1771.0|C024||None|None|None|False
 T070|2024-12-07|P106|Headphones|4|6463.0|C004|East|None|None|None|False
 T028|2024-12-25|P106|Headphones|3|5418.0|C025|North|None|None|None|False
 T014|2024-12-24|P109|Wireless Mouse|4|834.0|C015|West|None|None|None|False
