@@ -1,9 +1,9 @@
-from utils.file_handler import read_sales_file
+from utils.file_handler import read_sales_data
 from utils.data_processor import clean_and_validate_data
 from utils.api_handler import fetch_product_details
 
 def main():
-    raw_data = read_sales_file("data/sales_data.txt")
+    raw_data = read_sales_data("data/sales_data.txt")
     cleaned_data = clean_and_validate_data(raw_data)
 
     total_revenue = 0
